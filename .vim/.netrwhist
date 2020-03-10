@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/vincent/Sandbox/semantic_memories/semmap_decoupled'
+let g:netrw_dirhist_2='/media/vincent/dataHD/datasets/spatialMem_QA/semmap/runs/semmap_decoupled/31327'
+let g:netrw_dirhist_1='/home/vincent/Sandbox/semantic_memories/semmap_baseline_semseg'
+let g:netrw_dirhist_0='/home/vincent/Sandbox/semantic_memories/make_data'
+let g:netrw_dirhist_9='/home/vincent/Sandbox/semantic_memories/viz'
+let g:netrw_dirhist_8='/home/vincent/Sandbox/semantic_memories'
+let g:netrw_dirhist_7='/home/vincent/Sandbox/semantic_memories/make_data'
+let g:netrw_dirhist_6='/home/vincent/Sandbox/spatialMem_QA/baselines/memoryCNNQA/models'
+let g:netrw_dirhist_5='/home/vincent/Sandbox/spatialMem_QA/baselines/memoryCNNQA'
+let g:netrw_dirhist_4='/home/vincent/Sandbox/spatialMem_QA/baselines/attentionMemQA/metrics'
