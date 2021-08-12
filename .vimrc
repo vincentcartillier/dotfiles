@@ -11,7 +11,7 @@ let username="Vincent"
 
 set nocompatible
 
-  If you need infrmation on parameters, use :h param
+"  If you need infrmation on parameters, use :h param
 if has("gui_running")
   set shell=bash " better support
   " Gvim specific
